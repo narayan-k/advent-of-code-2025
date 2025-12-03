@@ -1,4 +1,3 @@
-export const input = `
 L6
 L41
 R25
@@ -4497,4 +4496,3 @@ R2
 R48
 R31
 R25
-`.trim();

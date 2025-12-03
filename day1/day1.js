@@ -1,4 +1,7 @@
-import { input } from "./input.js";
+import { readFileSync } from "fs";
+
+const input = readFileSync("input.txt", "utf8").trim();
+
 
 /**
  * Advent of Code 2025 — Day 1
