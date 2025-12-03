@@ -1,5 +1,8 @@
 # 🎄 Advent of Code 2025 – *Language Roulette Edition* 🚀
 
+<img src="https://skillicons.dev/icons?i=javascript,rust,c,zig,cpp,go,java,kotlin,cs,swift,ruby,python&theme=light" />
+
+
 Welcome to my Advent of Code 2025 repo!  
 This year’s challenge: **use a different programming language every single day.**  
 No comfort zones. No repeating languages. Maximum chaos. 🤓🔥
