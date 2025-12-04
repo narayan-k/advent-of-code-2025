@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2025 – *Language Roulette Edition* 🚀
 
-<img src="https://skillicons.dev/icons?i=javascript,rust,c,zig,cpp,go,java,kotlin,cs,swift,ruby,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=javascript,rust,c,nim,cpp,go,java,kotlin,cs,swift,ruby,python&theme=light" />
 
 
 Welcome to my Advent of Code 2025 repo!  
@@ -18,7 +18,7 @@ Each day’s solution lives in its own folder — and each one teaches me someth
 | 1 | **JavaScript** | 🟨 | The classic “let’s just hack it together.” |
 | 2 | **Rust** | 🦀 | Memory safety or bust. |
 | 3 | **C** | 💾 | Where segmentation faults build character. |
-| 4 | **Zig** | ⚡ | Low-level but friendly (sometimes). |
+| 4 | **Nim** | 🟠 | Fast like C, smooth like Python. |
 | 5 | **C++** | 🧩 | Templates? Sure, why not. All of them. |
 | 6 | **Go** | 🐹 | Goroutines for everyone! |
 | 7 | **Java** | ☕ | Write once, debug everywhere. |
